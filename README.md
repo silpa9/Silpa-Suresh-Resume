@@ -1,8 +1,6 @@
 
 # Silpa Suresh – Data Analyst
 
-📄 Resume: [Download Here]
-
 ## Skills
 - Databricks SQL
 - Azure Data Factory
